@@ -7,3 +7,5 @@ A list of my publications can be found here:
 3:) Optical Coherence Tomography contains our paper that we wrote under Sabancı Program for Undergraduate Research Programme PURE (as a co-first author) for Alzheimer's disease diagnosis using deep learning. Cannot display papers in PURE website because of privacy concerns, therefore uploaded to my github.
 
 4:) Yıldızların Yaşamına Kısa Bir Bakış is my paper on astronomy intended to introduce lifecycle of stars to Turkish audience, published at Science Canteen; however the website is down for quite some time, therefore uploaded to my github.
+
+5:) The Blind Eye of Technology is my paper on ethical implications of artificial intelligence (specifically Generative AI) during my studies in Twente, their website is no longer available therefore uploaded to my github.  
